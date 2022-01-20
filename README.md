@@ -1,5 +1,5 @@
 # Jeremiah Peoples 
-## Dveloper Advocate  | Software Engineer 
+## Developer Advocate  | Software Engineer 
 
 YouTube Video: [My Career In 60 Seconds](https://youtu.be/5UshG26Xl2M)
 
